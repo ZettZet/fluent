@@ -1,0 +1,18 @@
+[[package]]
+name = "inspect-mate"
+version = "0.0.2"
+description = "Extend the ``inspect`` standard library."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "9ad11a6bc0a6d9f8fcfb265fbd39d2243f9c546441aa4e89bf56dc11dd0c875e"
+
+[metadata.files]
+inspect-mate = [
+    {file = "inspect_mate-0.0.2-py2-none-any.whl", hash = "sha256:de7e5eb9f8231e741661aadbdbd2ae1b6e607241705abad9695790fd5c9440ab"},
+    {file = "inspect_mate-0.0.2.tar.gz", hash = "sha256:a51907976d9624d0eeaf0d2207a67c95d174a2fa3aabfdaee53eeaf91d973bdd"},
+]
