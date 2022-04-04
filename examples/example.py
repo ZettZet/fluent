@@ -10,7 +10,7 @@ class Meta:
     def set_locale(self, locale: str) -> 'Meta':
         self.locale = locale
 
-    #  All returns statements will be ignored
+    #  All return statements will be ignored
     #  (but IDE still thinks, that method returns string, i.e. it will suggest str hints)
     def set_port(self, port: int):
         self.port = port
